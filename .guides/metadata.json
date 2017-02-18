@@ -1,0 +1,91 @@
+{
+ "sections": [
+  {
+   "id": "e534db69-0587-71d5-dd16-90372d2a8c23",
+   "title": "Embedded Systems",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Embedded-Systems-e534.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "471f58f3-483d-9b98-7717-7cde6a992f19",
+   "title": "Embedded Computers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Embedded-Computers-471f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7bfa32d0-c55f-fd8e-2fc2-4b1ba287d302",
+   "title": "Simulated Embedded System",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "EmbeddedSystems/Refrigerator.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simulated-Embedded-System-7bfa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cdddf265-2501-1ae6-f2f4-83aa7f87b900",
+   "title": "Alarm Clock ",
+   "files": [
+    {
+     "path": "EmbeddedSystems/AlarmClock.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Alarm-Clock--cddd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8897b029-4e30-e7a6-e62c-17bf85a75c20",
+   "title": "Embedded Systems Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Embedded-Systems-Quiz-8897.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
