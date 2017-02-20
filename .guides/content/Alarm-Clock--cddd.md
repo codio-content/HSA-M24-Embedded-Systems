@@ -1,1 +1,1 @@
-Connect the elements of the Flode to simulate the controller for an alarm clock.
+Connect the elements of the Flode chart to simulate the controller for an alarm clock.
